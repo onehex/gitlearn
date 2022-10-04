@@ -1,9 +1,6 @@
-
----
 # Go programming language
 
 > description: Go language cheatsheet contains useful code syntax with examples which is handy while coding.
----
 
 Go language is an open-source, statically typed programming language by Google. Go is highly recommended for creation of highly scalable and available web applications.
 
